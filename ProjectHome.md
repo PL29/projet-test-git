@@ -1,0 +1,1 @@
+Test du mode collaboratif
